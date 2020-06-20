@@ -20,7 +20,6 @@
         "username": "yuchenliu15",
         "url": "https://github.com/yuchenliu15"
       }
-
     ]
   },
   "work": [
@@ -51,6 +50,20 @@
         "Discrete Math",
         "Computer System Organization"
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Coronavirus globe",
+      "description": "Node.js application with Google Cloud API and SQLITE3 storage.  Visualization via Three.js."
+    },
+    {
+      "name": "SpaceX counter",
+      "description": "React.js application with SpaceX API display the SpaceX launches information"
+    },
+    {
+      "name": "Trump’s tweets sentiment analysis",
+      "description": "Use Twitter API and Pandas to collect and organize data.  Able to conclude Trump’s sentiment towardcentain topic and his crowd’s reaction via Seaborn visualization, numpy, and VADER"
     }
   ],
   "awards": [
